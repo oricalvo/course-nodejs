@@ -1,0 +1,4 @@
+﻿  hello.cc
+  win_delay_load_hook.cc
+     Creating library C:\repos\course-nodejs\samples\01\cpp-addon\build\Debug\addon.lib and object C:\repos\course-nodejs\samples\01\cpp-addon\build\Debug\addon.exp
+  addon.vcxproj -> C:\repos\course-nodejs\samples\01\cpp-addon\build\Debug\\addon.node
