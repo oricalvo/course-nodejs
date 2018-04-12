@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+    <title>Socket.IO chat</title>
+</head>
+<body>
+    <script src="socket.io-client/dist/socket.io.dev.js"></script>
+    <script>
+        var socket = io();
+        socket.emit('chat message', $('#m').val());
+    </script>
+</body>
+</html>
